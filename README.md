@@ -13,4 +13,4 @@ Anki cards from the book (2nd edition) by Martin Fowler.
 
 TODO:
 - Code Smells (done)
-- Refactoring
+- Refactoring patterns
